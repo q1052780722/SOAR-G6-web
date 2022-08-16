@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": false,
   "description": "vue+g6+element可视化编辑器",
-  "author": "280196641@qq.com",
+  "author": "",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
